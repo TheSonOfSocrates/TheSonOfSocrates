@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-  
-  <h1 style="font-size: 320px;">Hello, world!</h1>
-
   <h1 align="center"> 👋 Senior Full Stack Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
