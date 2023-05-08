@@ -42,7 +42,7 @@
 <p align="center" dir="auto"><strong>Programming Languages</strong></p>
 <table align="center">
 <tbody>
-<tr border="0px solid black" style="0px solid black">
+<tr>
   <td style="border: 0"><img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png?raw=true" width="40px"></td>
   <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="40px"></td>
   <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="40px"></td>
