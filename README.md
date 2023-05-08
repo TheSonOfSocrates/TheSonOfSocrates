@@ -1,9 +1,3 @@
-<style>
-td {
-  border: 0
-  }  
-</style>
-
 <h1 align="center"> 👋 Senior Full Stack Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
@@ -49,7 +43,7 @@ td {
 <table align="center">
 <tbody>
 <tr>
-  <td><img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png?raw=true" width="40px"></td>
+  <td style="border: 0"><img src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png?raw=true" width="40px"></td>
   <td><img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png?raw=true" width="40px"></td>
   <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png?raw=true" width="40px"></td>
   <td><img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" style="max-width: 100%;"></td>
