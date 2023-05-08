@@ -1,3 +1,9 @@
+<style>
+td {
+  border: 0
+  }  
+</style>
+
 <h1 align="center"> 👋 Senior Full Stack Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
@@ -55,11 +61,9 @@
 <table align="center">
 <tbody>
 <tr>
-<td><img src="https://cdn.iconscout.com/icon/free/png-256/spring-3-1175059.png
-?raw=true" width="40px"><br>
+<td><img src="https://cdn.iconscout.com/icon/free/png-256/spring-3-1175059.png?raw=true" width="40px"><br>
 <img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png" style="max-width: 100%;"></td>
-<td><img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-1174946.png
-?raw=true" width="40px"><br><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" style="max-width: 100%;"></td>
+<td><img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-1174946.png?raw=true" width="40px"><br><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" style="max-width: 100%;"></td>
 <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="40px"><br><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/angularjs-1-2854.png" style="max-width: 100%;"></td>
 <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="40px"><br><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" style="max-width: 100%;"></td>
 <td><img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" style="max-width: 100%;"><br><img width="40px" src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
