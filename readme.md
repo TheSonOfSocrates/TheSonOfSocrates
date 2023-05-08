@@ -117,8 +117,6 @@
   </a> &nbsp;&nbsp;
 </p>
 </p>
-<style>
 tr, td {
   border: 0px solid black;
 }
-</style>
