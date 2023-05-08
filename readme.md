@@ -74,7 +74,7 @@
 <table align="center">
 <thead>
 <tr>
-<td><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/amazon-web-services-2-1175139.png" alt="AWS icon"></td>
+<td><img width="40px" src="https://cdn.iconscout.com/icon/free/png-64/free-amazon-aws-3628617-3029842.png?f=webp" alt="AWS icon"></td>
 <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="40px"></td>
 <td><img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" style="max-width: 100%;"></td>
 <td><img title="Heroku" alt="Heroku" width="40px" src="https://camo.githubusercontent.com/ca15623aa9e65e45789b5efa102a8abfa063360adb8d05bb9e048fe496c62850/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6865726f6b752e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/heroku.png" style="max-width: 100%;"></td>
