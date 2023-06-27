@@ -18,8 +18,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeid&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=false" alt="bc-expert" width="600px"/></a> </p>
 
 <p align="center">
-<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=javasuperdev&count_private=true&show_icons=true&theme=tokyonight" />
-<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javasuperdev&layout=compact&theme=aura&langs_count=9" />
+<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=TheSonOfSocrates&count_private=true&show_icons=true&theme=tokyonight" />
+<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSonOfSocrates&layout=compact&theme=aura&langs_count=9" />
 </p>
 
 <br/>
