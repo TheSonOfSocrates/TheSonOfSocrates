@@ -65,10 +65,7 @@
 <td><img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-1174946.png?raw=true" width="40px"><br><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" style="max-width: 100%;"></td>
 <td><img src="https://cdn.iconscout.com/icon/free/png-256/codeigniter-5-1175246.png?raw=true" width="40px"><br><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/angularjs-1-2854.png" style="max-width: 100%;"></td>
 <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-3-1175147.png?raw=true" width="40px"><br><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/vuejs-1175052.png" style="max-width: 100%;"></td>
-<td><img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" style="max-width: 100%;"><br><img width="40px" src="https://camo.githubusercontent.com/98c835566bae35eab51c05d004bf08bdbcb287186f492e1aeb20fa37f71ca7ca/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f736173732d31332d313137353039322e706e67" width="200"></td>
-<td><img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" style="max-width: 100%;"><br><img width="40px" src="https://camo.githubusercontent.com/7dd0ebf7a227b0f848f30a3dbd647a682075031e1010b19a7a41e366d281ce2b/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3132382f626f6f7473747261702d3232363037372e706e67?raw=true" width="200"></td>
-<td><img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" style="max-width: 100%;"><br><img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" style="max-width: 100%;"></td>
-<td><img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" style="max-width: 100%;"><br><img title="Selenium" alt="Selenium" width="40px" src="https://camo.githubusercontent.com/48a7db0f1b32ccc3e010f0366a600aac4e0465a3705e5093154cf60a987f43bd/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f73656c656e69756d2d746573742d6175746f6d6174696f6e2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/selenium-test-automation.png" style="max-width: 100%;"></td>
+<td><img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" style="max-width: 100%;"><br><img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" style="max-width: 100%;"></td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +76,6 @@
 <td><img width="40px" src="https://cdn.iconscout.com/icon/free/png-64/free-amazon-aws-3628617-3029842.png?f=webp" alt="AWS icon"></td>
 <td><img src="https://cdn.iconscout.com/icon/free/png-256/heroku-11-1175214.png?raw=true" width="40px"></td>
 <td><img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" style="max-width: 100%;"></td>
-<td><img title="Heroku" alt="Heroku" width="40px" src="https://camo.githubusercontent.com/ca15623aa9e65e45789b5efa102a8abfa063360adb8d05bb9e048fe496c62850/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6865726f6b752e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/heroku.png" style="max-width: 100%;"></td>
 <td><img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" style="max-width: 100%;"></td>
 </tr>
 </thead>
@@ -101,10 +97,8 @@
 <thead>
 <tr>
 <td><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/jetbrains-4-569254.png" style="max-width: 100%;"></td>
-<td><img title="VS Code" alt="VS Code" width="40px" src="https://camo.githubusercontent.com/e9141be13e6bea8c50af6d48f64700246faed666040ead23e74d4fc27bf411e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" style="max-width: 100%;"></td>
 <td><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" style="max-width: 100%;"></td>
 <td><img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" style="max-width: 100%;"></td>
-<td><img title="ZSH" alt="ZSH" width="40px" src="https://camo.githubusercontent.com/3ec75cb1c3278cce3c661d3bcf72a4eca75db241a6ace648ea014b02f3f44458/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6f686d797a73682f6f682d6d792d7a73682d6c6f676f2e706e67" data-canonical-src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" style="max-width: 100%;"></td>
 <td><img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" style="max-width: 100%;"></td>
 </tr>
 </thead>
@@ -116,10 +110,7 @@
 <p align="center" dir="auto">
   <a href="mailto:java.super.dev@gmail.com">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" style="max-width: 100%;">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/JavaSuperDev" rel="nofollow">
-    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://camo.githubusercontent.com/50ae75cc04f31141db66d85ed714e1a244e11e2771d401dd3abef154145b0e24/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61652f4769746875622d6465736b746f702d6c6f676f2d73796d626f6c2e7376672f3130323470782d4769746875622d6465736b746f702d6c6f676f2d73796d626f6c2e7376672e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" style="max-width: 100%;">
-  </a> &nbsp;&nbsp;
+  </a>
 </p>
 </p>
   </body>
