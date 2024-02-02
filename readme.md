@@ -34,7 +34,7 @@
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> I’m currently learning docker and kubernetes</li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley</li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronouns: He/Him</li>
-<li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> I regulary write articles on <a href="#" rel="nofollow">hashnode</a> (previously on <a href="#" rel="nofollow">blogger</a>)</li>
+<li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> I regulary write articles on <a href="#" rel="nofollow">hashnode</a> (previously on <a href="https://medium.com/@java.super.dev" rel="nofollow">blogger</a>)</li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png"></g-emoji> We can connect on <a href="https://www.chess.com/" rel="nofollow">Chess.com</a><g-emoji class="g-emoji" alias="chess_pawn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/265f.png">♟</g-emoji> to play some games</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></g-emoji> Fun fact: Je connais un peu le français</li>
 </ul>
