@@ -31,7 +31,7 @@
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png"></g-emoji> I'm currently working for a blockchain based company where i make financial applications using MERN Stack</li>
 <li><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"></g-emoji> I use daily <code>.java</code>, <code>.py</code>, <code>.js</code>, <code>.css</code>, <code>.sql</code></li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> I’m currently learning docker and kubernetes</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> I mastered docker and kubernetes</li>
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji> Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley</li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronouns: He/Him</li>
 <li><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"></g-emoji> I regulary write articles on <a href="https://medium.com/@java.super.dev" rel="nofollow">Medium</a></li>
