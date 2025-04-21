@@ -109,13 +109,12 @@
 </h1>
 <p align="center">
   <a href="https://linkedin.com/in/Abbass-Sharara">
-    <img alt="LinkedIn" width="26" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" />
+    <img alt="LinkedIn" width="26" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg">
   </a>
-  &nbsp;
   <a href="mailto:java.super.dev@gmail.com">
-    <img alt="Gmail" width="26" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" />
+    <img alt="Gmail" width="26" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg">
   </a>
 </p>
-</p>
-  </body>
+
+</body>
 </html>
