@@ -106,7 +106,9 @@
 <br/>
 <h1 align="center">Connect with me
   <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</h1>
 
+<h1 align="center">
   <p align="center">
     <a href="https://linkedin.com/in/Abbass-Sharara">
       <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
