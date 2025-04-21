@@ -105,21 +105,21 @@
 
 <br/>
 <h1 align="center">Connect with me
-  <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
+  <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
+  <p align="center">
+    <a href="https://linkedin.com/in/Abbass-Sharara">
+      <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    </a> &nbsp;&nbsp;
+    <a href="mailto:official@lovedbymen.com">
+      <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    </a> &nbsp;&nbsp;
+    <a href="https://drive.google.com/file/d/1GFemFrXqo9Akzz0YZPX6yiNw4qmo8d-0/view?usp=drive_link">
+      <img align="left" alt="Satyam Goyal | Gmail" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+    </a> &nbsp;&nbsp;
+  </p>
 </h1>
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-<p align="center">
-  <a href="https://linkedin.com/in/Abbass-Sharara">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:official@lovedbymen.com">
-    <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1GFemFrXqo9Akzz0YZPX6yiNw4qmo8d-0/view?usp=drive_link">
-    <img align="left" alt="Satyam Goyal | Gmail" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
-  </a> &nbsp;&nbsp;
-</p>
 <br><br>
 
 </body>
