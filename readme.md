@@ -107,12 +107,13 @@
 <h1 align="center">Connect with me
   <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
 </h1>
-<p align="center" dir="auto">
-  <a width="21.6" href="https://www.linkedin.com/in/Abbass-Sharara/">
-    <img align="center" alt="TienHuynh-TN | Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" style="max-width: 100%;">
-  </a>&nbsp;
+<p align="center">
+  <a href="https://linkedin.com/in/Abbass-Sharara">
+    <img alt="LinkedIn" width="26" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" />
+  </a>
+  &nbsp;
   <a href="mailto:java.super.dev@gmail.com">
-    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" style="max-width: 100%;">
+    <img alt="Gmail" width="26" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" />
   </a>
 </p>
 </p>
