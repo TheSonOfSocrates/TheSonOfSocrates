@@ -104,16 +104,13 @@
 </table>
 
 <br/>
-<h1 align="center">Connect with me</h1>
-<animated-image data-catalyst="">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" data-target="animated-image.originalLink">
-    <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-  </a>
-</animated-image>
+<h1 align="center">Connect with me
+  <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
+</h1>
 <p align="center" dir="auto">
   <a href="mailto:java.super.dev@gmail.com">
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" style="max-width: 100%;">
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/Abbass-Sharara/">
     <img align="center" alt="TienHuynh-TN | Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" style="max-width: 100%;">
   </a>
