@@ -108,12 +108,22 @@
   <img src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
 </h1>
 <p align="center">
-  <a href="https://linkedin.com/in/Abbass-Sharara">
-    <img alt="LinkedIn" width="26" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg">
+  <a href="">
+    <img alt="LinkedIn" width="26" src="h">
   </a>
   <a href="mailto:java.super.dev@gmail.com">
     <img alt="Gmail" width="26" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg">
   </a>
+</p>
+
+<p align="center" dir="auto">
+  <a href="mailto:java.super.dev@gmail.com">
+    <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Gmail.svg" style="max-width: 100%;">
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/Abbass-Sharara" rel="nofollow">
+    <img align="center" alt="TienHuynh-TN | GitHub" width="26px" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Linkedin.svg" style="max-width: 100%;">
+  </a> &nbsp;&nbsp;
+</p>
 </p>
 
 </body>
