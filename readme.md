@@ -8,7 +8,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
 
 <p align="center">
-  <a href="https://github.com/PetaTech"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack Engineer;Solid Coding%20Experience;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/PetaTech"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack%20Engineer;Solid%20Coding%20Experience;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
  <h1 align="center">
