@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
   <body>
-  <h1 align="center"> 👋 Staff Full Stack Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <h1 align="center"> 👋 Full Stack Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
   <!-- ![](https://komarev.com/ghpvc/?username=TheSonOfSocrates) -->
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
 
 <p align="center">
-  <a href="https://github.com/PetaTech"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack-Engineer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/PetaTech"><img src="https://readme-typing-svg.herokuapp.com/?lines=Result%20Oriented;Full%20Stack Engineer;Solid Coding%20Experience;Always%20Learning%20New%20Tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
  <h1 align="center">
